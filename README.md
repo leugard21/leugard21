@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**leugard21/leugard21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the repository that powers my GitHub profile. Because this is a special
+`leugard21/leugard21` repo, the contents of this file appear on my profile page.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently exploring open-source automation projects.
+- 🌱 I'm learning advanced container and AI development techniques.
+- 💬 Ask me about Python, Docker, and Git.
+- 📫 Reach me by opening an issue on this repository.
+- ⚡ Fun fact: this README was edited inside a container.
+
+### Contributing
+
+Spot a typo or have a suggestion? Feel free to open an issue or send a pull request.
