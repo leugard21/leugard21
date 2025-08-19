@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Leugard
 
-Welcome to the repository that powers my GitHub profile. Because this is a special
-`leugard21/leugard21` repo, the contents of this file appear on my profile page.
+Right now I’m focusing on building efficient backend services with **Golang** and creating modern mobile apps with **Android Studio**.
 
-### About Me
+---
 
-- 🔭 I'm currently exploring open-source automation projects.
-- 🌱 I'm learning advanced container and AI development techniques.
-- 💬 Ask me about Python, Docker, and Git.
-- 📫 Reach me by opening an issue on this repository.
-- ⚡ Fun fact: this README was edited inside a container.
+## 🔧 Tech Stack
+- **Languages:** Go, Kotlin, Java  
+- **Android Dev:** Android Studio, Jetpack Compose, Material Design  
+- **Backend:** Go (Gin, Echo, Fiber), REST APIs, gRPC  
+- **Tools:** Git, Docker, PostgreSQL, SQLite
 
-### Contributing
+---
 
-Spot a typo or have a suggestion? Feel free to open an issue or send a pull request.
+## 📱 What I’m Working On
+- 🟦 Building scalable services and APIs in **Go**  
+- 📲 Developing Android apps with **Kotlin**  
+- 🔄 Exploring integrations between backend + mobile  
+
+---
+
+## 🌱 Current Focus
+- Deepening expertise in **Go** for backend development  
+- Leveling up in **Android app design and performance**  
+
+---
+
+## 📫 Connect
+- 💡 Open to collaboration on Go or Android projects  
+- 📨 Reach me through GitHub Issues or Discussions
